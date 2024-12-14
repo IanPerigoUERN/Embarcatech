@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
+// Caso do CS50 - Mario
 int main(){
     int linhas=5,i,j,k;
     for (int i=0; i<linhas; i++){
